@@ -27,7 +27,7 @@ set encoding=utf-8
 
 " Whitespace
 set wrap
-" set textwidth=79
+set textwidth=79
 set formatoptions=tcqrn1
 set tabstop=4
 set shiftwidth=4
@@ -87,4 +87,10 @@ map <leader>l :set list!<CR> " Toggle tabs and EOL
 
 " Color scheme (terminal)
 syntax enable
-"colorscheme monokai
+colorscheme monokai
+
+" Setup syntax based folding
+set foldmethod=indent
+set foldlevelstart=999
+set foldminlines=0
+

@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/smalhotra/workspace/smalhotra-linux-devel/TestCenter/framework/il/common/apps/protoeventd'
+let g:netrw_dirhist_2='/home/smalhotra/workspace/smalhotra-linux-devel/TestCenter/framework/il/common/lib/eventpublisher'
+let g:netrw_dirhist_3='/home/smalhotra/workspace/smalhotra-linux-devel/TestCenter/events'
+let g:netrw_dirhist_4='/home/smalhotra/workspace/evpp/evpp'
+let g:netrw_dirhist_5='/home/smalhotra/workspace/smalhotra-linux-devel/TestCenter/framework/il/common/apps/pysysmgr'
+let g:netrw_dirhist_6='/home/smalhotra/workspace/smalhotra-linux-devel/TestCenter/framework/il/common/pymodule/eventpublisher'
